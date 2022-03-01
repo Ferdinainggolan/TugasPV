@@ -1,0 +1,5 @@
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\Tugas_2\Tugas_2\bin\Debug\Tugas_2.exe
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\Tugas_2\Tugas_2\bin\Debug\Tugas_2.pdb
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\Tugas_2\Tugas_2\obj\Debug\Tugas_2.csprojResolveAssemblyReference.cache
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\Tugas_2\Tugas_2\obj\Debug\Tugas_2.exe
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\Tugas_2\Tugas_2\obj\Debug\Tugas_2.pdb

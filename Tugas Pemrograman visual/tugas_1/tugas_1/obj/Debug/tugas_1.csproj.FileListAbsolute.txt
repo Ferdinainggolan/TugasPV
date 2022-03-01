@@ -1,0 +1,5 @@
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\tugas_1\tugas_1\bin\Debug\tugas_1.exe
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\tugas_1\tugas_1\bin\Debug\tugas_1.pdb
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\tugas_1\tugas_1\obj\Debug\tugas_1.csprojResolveAssemblyReference.cache
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\tugas_1\tugas_1\obj\Debug\tugas_1.exe
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\tugas_1\tugas_1\obj\Debug\tugas_1.pdb

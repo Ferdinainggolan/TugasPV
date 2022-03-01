@@ -1,0 +1,8 @@
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\SMDB\SMDB\obj\Debug\SMDB.csprojResolveAssemblyReference.cache
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\SMDB\SMDB\obj\Debug\SMDB.MainForm.resources
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\SMDB\SMDB\obj\Debug\SMDB.csproj.GenerateResource.Cache
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\SMDB\SMDB\bin\Debug\SMDB.exe
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\SMDB\SMDB\bin\Debug\SMDB.pdb
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\SMDB\SMDB\bin\Debug\MySql.Data.dll
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\SMDB\SMDB\obj\Debug\SMDB.exe
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\SMDB\SMDB\obj\Debug\SMDB.pdb
